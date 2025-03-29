@@ -25,9 +25,10 @@ Select the disk:  <br/>
 <img src="https://i.imgur.com/Rtd2zyP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<h2>Visualisierung </h2>
-YOUTUBE: https://youtu.be/Eev7tenWiBM
-
+<h2>Visualisierung</h2>
+<a href="https://youtu.be/DQ7Vontirnc" target="_blank">
+    <img src="play-button.png" alt="Video abspielen" style="width:50px;height:50px;">
+</a>
 <img src="https://i.imgur.com/gBQBU0V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -56,3 +57,5 @@ Observe the wiped disk:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
+<h1>JWipe - Disk Sanitization</h1>
+
